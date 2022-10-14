@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Pravin baste
-- 👀 I’m interested in Data Science and IOT.
-- 🌱 I’m currently working in School of Energy Studies, SPPU, Pune, India
+- 👋 Hi, I’m Pravin baste..B.E,M.E (EXTC) ,Ph.D(A.I)
+- 👀 I’m interested in Data. Text & Image....
+- 🌱 I’m currently working in Infosys,as Data Scientist, Pune, India
 - 💞️ I’m looking to collaborate on Machine Learning...!!
 - 📫 email id:pravinbaste009@gmail.com
 
