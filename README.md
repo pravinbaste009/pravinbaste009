@@ -1,6 +1,7 @@
 Data Scientist | Generative AI, Computer Vision, Machine Learning
 
 🚀 About Me
+
 Welcome to my GitHub playground! I'm a seasoned Data Scientist with 8 years of hands-on experience, specializing in Generative AI, Computer Vision, and Machine Learning. My journey in the world of data is fueled by a passion for innovation and a relentless pursuit of excellence.
 
 🛠️ Technical Skills
